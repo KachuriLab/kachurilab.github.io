@@ -42,6 +42,30 @@
   - prs
   - ancestry
   repo: KachuriLab
+- id: doi:10.1101/2023.10.15.23296448
+  title: Genetic predisposition to altered blood cell homeostasis is associated with
+    glioma risk and survival
+  authors:
+  - Linda Kachuri
+  - Geno A. Guerra
+  - George A. Wendt
+  - Helen M. Hansen
+  - Annette M. Molinaro
+  - Paige Bracci
+  - Lucie McCoy
+  - Terri Rice
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-16'
+  link: https://doi.org/gswt8n
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
 - id: doi:10.1038/s41588-023-01377-z
   title: Gene expression in African Americans, Puerto Ricans and Mexican Americans
     reveals ancestry-specific patterns of genetic architecture
