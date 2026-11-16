@@ -1,5 +1,782 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/science.adx2989
+  title: Cross-cohort analysis of expression and splicing quantitative trait loci
+    in TOPMed
+  authors:
+  - Peter Orchard
+  - Thomas W. Blackwell
+  - Linda Kachuri
+  - Peter J. Castaldi
+  - Michael H. Cho
+  - Stephanie A. Christenson
+  - Peter Durda
+  - Stacey Gabriel
+  - Craig P. Hersh
+  - Scott Huntsman
+  - Seungyong Hwang
+  - Roby Joehanes
+  - Mari Johnson
+  - Xingnan Li
+  - Honghuang Lin
+  - Ching-Ti Liu
+  - Yongmei Liu
+  - Angel C. Y. Mak
+  - Ani W. Manichaikul
+  - David T. Paik
+  - Aabida Saferali
+  - Joshua D. Smith
+  - Kent D. Taylor
+  - Russell P. Tracy
+  - Jiongming Wang
+  - Mingqiang Wang
+  - Joshua S. Weinstock
+  - Jeffrey Weiss
+  - Heather E. Wheeler
+  - Ying Zhou
+  - "Sebastian Z\xF6llner"
+  - Joseph C. Wu
+  - Luisa Mestroni
+  - Sharon Graw
+  - Matthew R. G. Taylor
+  - Victor E. Ortega
+  - W. Craig Johnson
+  - Weiniu Gan
+  - Goncalo Abecasis
+  - Deborah A. Nickerson
+  - Namrata Gupta
+  - Kristin Ardlie
+  - Prescott G. Woodruff
+  - Russell P. Bowler
+  - Deborah A. Meyers
+  - Alex Reiner
+  - Charles Kooperberg
+  - Elad Ziv
+  - Ramachandran S. Vasan
+  - Martin G. Larson
+  - L. Adrienne Cupples
+  - Edwin K. Silverman
+  - Stephen S. Rich
+  - Nancy Heard-Costa
+  - Hua Tang
+  - Jerome I. Rotter
+  - Albert V. Smith
+  - Daniel Levy
+  - "Fran\xE7ois Aguet"
+  - Laura J. Scott
+  - Laura M. Raffield
+  - Stephen C. J. Parker
+  - Namiko Abe
+  - Laura Almasy
+  - Seth Ament
+  - Pramod Anugu
+  - Paul Auer
+  - Dimitrios Avramopoulos
+  - Adithya Balasubramanian
+  - R. Graham Barr
+  - Lucas Barwick
+  - Terri Beaty
+  - Diane Becker
+  - Lewis Becker
+  - Amber Beitelshees
+  - Takis Benos
+  - Marcos Bezerra
+  - Joshua Bis
+  - Jennifer Brody
+  - Ulrich Broeckel
+  - Jai Broome
+  - Karen Bunting
+  - Erin Buth
+  - Vincent Carey
+  - Cara Carty
+  - Richard Casaburi
+  - Mark Chaffin
+  - Christy Chang
+  - Yi-Cheng Chang
+  - Sameer Chavan
+  - Bo-Juen Chen
+  - Wei-Min Chen
+  - Seung Hoan Choi
+  - Lee-Ming Chuang
+  - Ren-Hua Chung
+  - Matthew Conomos
+  - Elaine Cornell
+  - Carolyn Crandall
+  - James Crapo
+  - Jeffrey Curtis
+  - Coleen Damcott
+  - Sean David
+  - Lisa de las Fuentes
+  - Paul de Vries
+  - Ranjan Deka
+  - Dawn DeMeo
+  - Scott Devine
+  - Huyen Dinh
+  - Harsha Doddapaneni
+  - Qing Duan
+  - Ravi Duggirala
+  - Charles Eaton
+  - Lynette Ekunwe
+  - Adel El Boueiz
+  - Leslie Emery
+  - Charles Farber
+  - Jesse Farek
+  - Nora Franceschini
+  - Chris Frazar
+  - Mao Fu
+  - Stephanie M. Fullerton
+  - Lucinda Fulton
+  - Shanshan Gao
+  - Yan Gao
+  - Margery Gass
+  - Heather Geiger
+  - Auyon Ghosh
+  - Chris Gignoux
+  - David Glahn
+  - Stephanie Gogarten
+  - Da-Wei Gong
+  - Harald Goring
+  - Daniel Grine
+  - C. Charles Gu
+  - Yue Guan
+  - Michael Hall
+  - Yi Han
+  - Daniel Harris
+  - Ben Heavner
+  - David Herrington
+  - Brian Hobbs
+  - Elliott Hong
+  - Karin Hoth
+  - Chao (Agnes) Hsiung
+  - Jianhong Hu
+  - Yi-Jen Hung
+  - Haley Huston
+  - Chii Min Hwu
+  - Rebecca Jackson
+  - Deepti Jain
+  - Jill Johnsen
+  - Rich Johnston
+  - Kimberly Jones
+  - Michael Kessler
+  - Alyna Khan
+  - Ziad Khan
+  - Wonji Kim
+  - John Kimoff
+  - Greg Kinney
+  - Holly Kramer
+  - Christoph Lange
+  - Ethan Lange
+  - Cathy Laurie
+  - Cecelia Laurie
+  - Meryl LeBoff
+  - Sandra Lee
+  - Wen-Jane Lee
+  - David Levine
+  - Joshua Lewis
+  - Yun Li
+  - Xihong Lin
+  - Simin Liu
+  - Yu Liu
+  - Barry Make
+  - Alisa Manning
+  - JoAnn Manson
+  - Lisa Martin
+  - Melissa Marton
+  - Susan Mathai
+  - Susanne May
+  - Patrick McArdle
+  - Merry-Lynn McDonald
+  - Sean McFarland
+  - Daniel McGoldrick
+  - Caitlin McHugh
+  - Hao Mei
+  - James Meigs
+  - Vipin Menon
+  - Nancy Min
+  - Matt Moll
+  - Zeineen Momin
+  - May Montasser
+  - Josyf C Mychaleckyj
+  - Rakhi Naik
+  - Take Naseri
+  - Pradeep Natarajan
+  - Sarah C. Nelson
+  - Bonnie Neltner
+  - Caitlin Nessner
+  - Osuji Nkechinyere
+  - Jeff O'Connell
+  - "Tim O\u2019Connor"
+  - Heather Ochs-Balcom
+  - Geoffrey Okwuonu
+  - James Pankow
+  - Cora Parker
+  - Gina Peloso
+  - Juan Manuel Peralta
+  - Marco Perez
+  - James Perry
+  - Ulrike Peters
+  - Lawrence S Phillips
+  - Toni Pollin
+  - Julia Powers Becker
+  - Meher Preethi Boorgula
+  - Bruce Psaty
+  - Dandi Qiao
+  - Nicholas Rafaels
+  - Mahitha Rajendran
+  - Laura Rasmussen-Torvik
+  - Aakrosh Ratan
+  - Robert Reed
+  - Elizabeth Regan
+  - "Muagututi\u2018a Sefuiva Reupena"
+  - Rebecca Robillard
+  - Carolina Roselli
+  - Ingo Ruczinski
+  - Alexi Runnels
+  - Pamela Russell
+  - Kathleen Ryan
+  - Ester Cerdeira Sabino
+  - Shabnam Salimi
+  - Sejal Salvi
+  - Steven Salzberg
+  - Kevin Sandow
+  - Jireh Santibanez
+  - Karen Schwander
+  - Frank Sciurba
+  - "Fr\xE9d\xE9ric S\xE9ri\xE8s"
+  - Amol Shetty
+  - Aniket Shetty
+  - Brian Silver
+  - Robert Skomro
+  - Tanja Smith
+  - Sylvia Smoller
+  - Beverly Snively
+  - Adrienne M. Stilp
+  - Garrett Storm
+  - Elizabeth Streeten
+  - Jessica Lasky Su
+  - Yun Ju Sung
+  - Jody Sylvia
+  - Adam Szpiro
+  - Margaret Taub
+  - Simeon Taylor
+  - Timothy A. Thornton
+  - Machiko Threlkeld
+  - Lesley Tinker
+  - David Tirschwell
+  - Hemant Tiwari
+  - Catherine Tong
+  - Michael Tsai
+  - Dhananjay Vaidya
+  - Tarik Walker
+  - Robert Wallace
+  - Avram Walts
+  - Fei Fei Wang
+  - Heming Wang
+  - Karol Watson
+  - Jennifer Watt
+  - Lu-Chen Weng
+  - Jennifer Wessel
+  - Kayleen Williams
+  - Carla Wilson
+  - James Wilson
+  - Lara Winterkorn
+  - Quenna Wong
+  - Baojun Wu
+  - Huichun Xu
+  - Lisa Yanek
+  - Ivana Yang
+  - Seyedeh Maryam Zekavat
+  - Snow Xueyan Zhao
+  - Wei Zhao
+  - Xiaofeng Zhu
+  publisher: Science
+  date: '2026-07-16'
+  link: https://doi.org/hcb46s
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.64898/2026.06.03.26354842
+  title: Contextualizing the Utility of Polygenic Risk Scores using Absolute Risk
+    Models in Diverse Ancestry Populations
+  authors:
+  - Martina Fu
+  - Linda Kachuri
+  - Dezheng Huo
+  - John S. Witte
+  - Pradeep Natarajan
+  - Nilanjan Chatterjee
+  publisher: openRxiv
+  date: '2026-06-04'
+  link: https://doi.org/hb6vvx
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.64898/2025.12.05.692665
+  title: Allele Frequencies at Recessive Disease Genes are Mainly Determined by Pleiotropic
+    Effects in Heterozygotes
+  authors:
+  - Jonathan Judd
+  - Jeffrey P. Spence
+  - Nikhil Milind
+  - Linda Kachuri
+  - John S. Witte
+  - Jonathan K. Pritchard
+  publisher: openRxiv
+  date: '2025-12-09'
+  link: https://doi.org/hbfm2h
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41588-025-02262-7
+  title: Improved multiancestry fine-mapping identifies cis-regulatory variants underlying
+    molecular traits and disease risk
+  authors:
+  - Zeyun Lu
+  - Xinran Wang
+  - Matthew Carr
+  - Artem Kim
+  - Steven Gazal
+  - Pejman Mohammadi
+  - Lang Wu
+  - James Pirruccello
+  - Linda Kachuri
+  - Alexander Gusev
+  - Nicholas Mancuso
+  publisher: Nature Genetics
+  date: '2025-07-21'
+  link: https://doi.org/g9vfrf
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/neuonc/noae275
+  title: Functional germline variants in DNA damage repair pathways are associated
+    with altered survival in adults with glioma treated with temozolomide
+  authors:
+  - Geno Guerra
+  - George Wendt
+  - Lucie McCoy
+  - Helen M Hansen
+  - Linda Kachuri
+  - Annette M Molinaro
+  - Terri Rice
+  - Victoria Guan
+  - Lianne Capistrano
+  - Allison Hsieh
+  - Veruna Kalsi
+  - Jaimie Sallee
+  - Jennie W Taylor
+  - Jennifer L Clarke
+  - Eduardo Rodriguez Almaraz
+  - John K Wiencke
+  - Jeanette E Eckel-Passow
+  - Robert B Jenkins
+  - Margaret Wrensch
+  - Stephen S Francis
+  publisher: Neuro-Oncology
+  date: '2025-01-02'
+  link: https://doi.org/g8xbcz
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41698-025-00980-z
+  title: Integration of MRI radiomics and germline genetics to predict the IDH mutation
+    status of gliomas
+  authors:
+  - Taishi Nakase
+  - George A. Henderson
+  - Thomas Barba
+  - Rohan Bareja
+  - Geno Guerra
+  - Qingyu Zhao
+  - Stephen S. Francis
+  - Olivier Gevaert
+  - Linda Kachuri
+  publisher: npj Precision Oncology
+  date: '2025-06-16'
+  link: https://doi.org/g9q3g4
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1002/cpt.3624
+  title: "<i>SLCO1B1</i>\n                    Functional Variants, Bilirubin, Statin\u2010\
+    Induced Myotoxicity, and Recent Sub\u2010Saharan African Ancestry: A Precision\
+    \ Medicine Health Equity Study"
+  authors:
+  - Tanushree Haldar
+  - Mark Kvale
+  - Jia Yang
+  - Michael P. Douglas
+  - "Willow Coyote\u2010Maetas"
+  - Linda Kachuri
+  - John S. Witte
+  - Carlos Iribarren
+  - Marisa W. Medina
+  - Ronald M. Krauss
+  - Sook Wah Yee
+  - "Akinyemi Oni\u2010Orisan"
+  publisher: Clinical Pharmacology &amp; Therapeutics
+  date: '2025-03-06'
+  link: https://doi.org/g88kpk
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/jnci/djae265
+  title: Association of immunoglobulin E levels with glioma risk and survival
+  authors:
+  - Geno Guerra
+  - Taishi Nakase
+  - Linda Kachuri
+  - Lucie McCoy
+  - Helen M Hansen
+  - Terri Rice
+  - Joseph L Wiemels
+  - John K Wiencke
+  - Annette M Molinaro
+  - Margaret Wrensch
+  - Stephen S Francis
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2024-10-24'
+  link: https://doi.org/g8n7r4
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2025.02.19.25322561
+  title: Cross-cohort analysis of expression and splicing quantitative trait loci
+    in TOPMed
+  authors:
+  - Peter Orchard
+  - Thomas W. Blackwell
+  - Linda Kachuri
+  - Peter J. Castaldi
+  - Michael H. Cho
+  - Stephanie A. Christenson
+  - Peter Durda
+  - Stacey Gabriel
+  - Craig P. Hersh
+  - Scott Huntsman
+  - Seungyong Hwang
+  - Roby Joehanes
+  - Mari Johnson
+  - Xingnan Li
+  - Honghuang Lin
+  - Ching-Ti Liu
+  - Yongmei Liu
+  - Angel C.Y. Mak
+  - Ani W. Manichaikul
+  - David Paik
+  - Aabida Saferali
+  - Joshua D. Smith
+  - Kent D. Taylor
+  - Russell P. Tracy
+  - Jiongming Wang
+  - Mingqiang Wang
+  - Joshua S. Weinstock
+  - Jeffrey Weiss
+  - Heather E. Wheeler
+  - Ying Zhou
+  - Sebastian Zoellner
+  - Joseph C. Wu
+  - Luisa Mestroni
+  - Sharon Graw
+  - Matthew R.G. Taylor
+  - Victor E. Ortega
+  - Craig W. Johnson
+  - Weiniu Gan
+  - Goncalo Abecasis
+  - Deborah A. Nickerson
+  - Namrata Gupta
+  - Kristin Ardlie
+  - Prescott G. Woodruff
+  - Yinan Zheng
+  - Russell P. Bowler
+  - Deborah A. Meyers
+  - Alex Reiner
+  - Charles Kooperberg
+  - Elad Ziv
+  - Vasan S. Ramachandran
+  - Martin G. Larson
+  - L. Adrienne Cupples
+  - Esteban G. Burchard
+  - Edwin K Silverman
+  - Stephen S. Rich
+  - Nancy Heard-Costa
+  - Hua Tang
+  - Jerome I. Rotter
+  - Albert V. Smith
+  - Daniel Levy
+  - "Fran\xE7ois Aguet"
+  - Laura Scott
+  - Laura M. Raffield
+  - Stephen C.J. Parker
+  publisher: openRxiv
+  date: '2025-02-21'
+  link: https://doi.org/g855cr
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41591-025-03539-4
+  title: 'Author Correction: Genetically adjusted PSA levels for prostate cancer screening'
+  authors:
+  - Linda Kachuri
+  - Thomas J. Hoffmann
+  - Yu Jiang
+  - Sonja I. Berndt
+  - John P. Shelley
+  - Kerry R. Schaffer
+  - Mitchell J. Machiela
+  - Neal D. Freedman
+  - Wen-Yi Huang
+  - Shengchao A. Li
+  - Ryder Easterlin
+  - Phyllis J. Goodman
+  - Cathee Till
+  - Ian Thompson
+  - Hans Lilja
+  - Stephen K. Van Den Eeden
+  - Stephen J. Chanock
+  - Christopher A. Haiman
+  - David V. Conti
+  - Robert J. Klein
+  - Jonathan D. Mosley
+  - Rebecca E. Graff
+  - John S. Witte
+  publisher: Nature Medicine
+  date: '2025-02-01'
+  link: https://doi.org/g84h7c
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1002/jmv.70195
+  title: "Genome\u2010Wide Association Analyses of HPV16 and HPV18 Seropositivity\
+    \ Identify Susceptibility Loci for Cervical Cancer"
+  authors:
+  - Theresa Beckhaus
+  - Linda Kachuri
+  - Taishi Nakase
+  - "Peter Sch\xFCrmann"
+  - "Rieke Eisenbl\xE4tter"
+  - Maya Geerts
+  - "Gerd B\xF6hmer"
+  - "Hans\u2010Georg Strau\xDF"
+  - Christine Hirchenhain
+  - Monika Schmidmayr
+  - "Florian M\xFCller"
+  - Peter A. Fasching
+  - "Norman H\xE4fner"
+  - Alexander Luyten
+  - Matthias Jentschke
+  - Peter Hillemanns
+  - Tracy A. O'Mara
+  - Stephen S. Francis
+  - John S. Witte
+  - "Thilo D\xF6rk"
+  - Dhanya Ramachandran
+  publisher: Journal of Medical Virology
+  date: '2025-01-31'
+  link: https://doi.org/g83tzq
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41467-025-55919-6
+  title: Genetic predisposition to altered blood cell homeostasis is associated with
+    glioma risk and survival
+  authors:
+  - Linda Kachuri
+  - Geno A. Guerra
+  - Taishi Nakase
+  - George A. Wendt
+  - Helen M. Hansen
+  - Annette M. Molinaro
+  - Paige Bracci
+  - Lucie McCoy
+  - Terri Rice
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Nature Communications
+  date: '2025-01-14'
+  link: https://doi.org/g82fnp
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41366-024-01609-0
+  title: Polygenic score for body mass index in relation to mortality among patients
+    with renal cell cancer
+  authors:
+  - Zhengyi Deng
+  - Rebecca E. Graff
+  - Ken Batai
+  - Benjamin I. Chung
+  - Marvin E. Langston
+  - Linda Kachuri
+  publisher: International Journal of Obesity
+  date: '2024-08-17'
+  link: https://doi.org/gt7b6r
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.10.29.24316326
+  title: Unraveling the genetic landscape of susceptibility to multiple primary cancers
+  authors:
+  - Pooja Middha
+  - Linda Kachuri
+  - Jovia L. Nierenberg
+  - Rebecca E. Graff
+  - Taylor B. Cavazos
+  - Thomas J. Hoffmann
+  - Jie Zhang
+  - Stacey Alexeeff
+  - Laurel Habel
+  - Douglas A. Corley
+  - Stephen Van Den Eeden
+  - Lawrence H. Kushi
+  - Elad Ziv
+  - Lori C. Sakoda
+  - John S. Witte
+  publisher: openRxiv
+  date: '2024-10-30'
+  link: https://doi.org/g8pz2p
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.07.31.24311312
+  title: Investigating the Role of Neighborhood Socioeconomic Status and Germline
+    Genetics on Prostate Cancer Risk
+  authors:
+  - Jonathan Judd
+  - Jeffrey P. Spence
+  - Jonathan K. Pritchard
+  - Linda Kachuri
+  - John S. Witte
+  publisher: openRxiv
+  date: '2024-08-02'
+  link: https://doi.org/gt5z2v
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.07.16.24310519
+  title: Integration of MRI radiomics and germline genetics to predict the IDH mutation
+    status of gliomas
+  authors:
+  - Taishi Nakase
+  - George Henderson
+  - Thomas Barba
+  - Rohan Bareja
+  - Geno Guerra
+  - Qingyu Zhao
+  - Stephen S. Francis
+  - Olivier Gevaert
+  - Linda Kachuri
+  publisher: openRxiv
+  date: '2024-07-17'
+  link: https://doi.org/gt4w4j
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/neuonc/noae112
+  title: Genome-wide polygenic risk scores predict risk of glioma and molecular subtypes
+  authors:
+  - Taishi Nakase
+  - Geno A Guerra
+  - Quinn T Ostrom
+  - Tian Ge
+  - Beatrice S Melin
+  - Margaret Wrensch
+  - John K Wiencke
+  - Robert B Jenkins
+  - Jeanette E Eckel-Passow
+  - Melissa L Bondy
+  - Stephen S Francis
+  - Linda Kachuri
+  publisher: Neuro-Oncology
+  date: '2024-06-25'
+  link: https://doi.org/gt2jdb
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41467-024-48857-2
+  title: 'Ambient air pollution and urological cancer risk: A systematic review and
+    meta-analysis of epidemiological evidence'
+  authors:
+  - Jinhui Li
+  - Zhengyi Deng
+  - Simon John Christoph Soerensen
+  - Linda Kachuri
+  - Andres Cardenas
+  - Rebecca E. Graff
+  - John T. Leppert
+  - Marvin E. Langston
+  - Benjamin I. Chung
+  publisher: Nature Communications
+  date: '2024-06-15'
+  link: https://doi.org/gtzpz9
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.05.09.24307132
+  title: Association of immunoglobulin E levels with glioma risk and survival
+  authors:
+  - Geno Guerra
+  - Taishi Nakase
+  - Linda Kachuri
+  - Lucie McCoy
+  - Helen M. Hansen
+  - Terri Rice
+  - Joseph. L. Wiemels
+  - John K. Wiencke
+  - Annette M. Molinaro
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: openRxiv
+  date: '2024-05-09'
+  link: https://doi.org/gtt3rq
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.04.15.24305836
+  title: "Improved multi-ancestry fine-mapping identifies\n                  <i>cis</i>\n\
+    \                  -regulatory variants underlying molecular traits and disease\
+    \ risk"
+  authors:
+  - Zeyun Lu
+  - Xinran Wang
+  - Matthew Carr
+  - Artem Kim
+  - Steven Gazal
+  - Pejman Mohammadi
+  - Lang Wu
+  - Alexander Gusev
+  - James Pirruccello
+  - Linda Kachuri
+  - Nicholas Mancuso
+  publisher: openRxiv
+  date: '2024-04-16'
+  link: https://doi.org/gtrkzz
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
 - id: doi:10.1038/s41576-023-00637-2
   title: Principles and methods for transferring polygenic risk scores across global
     populations
@@ -42,6 +819,61 @@
   - prs
   - ancestry
   repo: KachuriLab
+- id: doi:10.1101/2023.10.15.23296448
+  title: Genetic predisposition to altered blood cell homeostasis is associated with
+    glioma risk and survival
+  authors:
+  - Linda Kachuri
+  - Geno A. Guerra
+  - George A. Wendt
+  - Helen M. Hansen
+  - Annette M. Molinaro
+  - Paige Bracci
+  - Lucie McCoy
+  - Terri Rice
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: openRxiv
+  date: '2023-10-16'
+  link: https://doi.org/gswt8n
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2023.10.13.23296963
+  title: Functional germline variants in DNA damage repair pathways are associated
+    with altered survival in adults with glioma treated with temozolomide
+  authors:
+  - Geno Guerra
+  - George Wendt
+  - Lucie McCoy
+  - Helen M. Hansen
+  - Linda Kachuri
+  - Annette M. Molinaro
+  - Terri Rice
+  - Victoria Guan
+  - Lianne Capistrano
+  - Allison Hsieh
+  - Veruna Kalsi
+  - Jaimie Sallee
+  - Jennie W. Taylor
+  - Jennifer L. Clarke
+  - Eduardo Rodriguez Almaraz
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: openRxiv
+  date: '2023-10-15'
+  link: https://doi.org/g8dgpb
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
 - id: doi:10.1038/s41588-023-01377-z
   title: Gene expression in African Americans, Puerto Ricans and Mexican Americans
     reveals ancestry-specific patterns of genetic architecture
@@ -150,7 +982,7 @@
   - Jonathan D. Mosley
   - John S. Witte
   - Rebecca E. Graff
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-05-05'
   link: https://doi.org/gr9q24
   orcid: 0000-0002-3226-4727
@@ -342,7 +1174,7 @@
   - Jonathan D. Mosley
   - Rebecca E. Graff
   - John S. Witte
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-04-21'
   link: https://doi.org/gsrsqz
   orcid: 0000-0002-3226-4727
@@ -359,7 +1191,7 @@
   - Christopher A. Haiman
   - Linda Kachuri
   - Charleston W. K. Chiang
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-02-20'
   link: https://doi.org/gsrsq2
   orcid: 0000-0002-3226-4727
@@ -385,7 +1217,7 @@
   - Eric Jorgenson
   - Lori C. Sakoda
   - John S. Witte
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-02-15'
   link: https://doi.org/gsrsq4
   orcid: 0000-0002-3226-4727
@@ -430,7 +1262,7 @@
   - Robert B. Jenkins
   - Margaret Wrensch
   - Stephen S. Francis
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-09-16'
   link: https://doi.org/gsrsq6
   orcid: 0000-0002-3226-4727
@@ -538,7 +1370,7 @@
   - Denise M. Scholtens
   - William J. Catalona
   - John S. Witte
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-08-31'
   link: https://doi.org/gsrsq7
   orcid: 0000-0002-3226-4727
@@ -568,7 +1400,7 @@
   - Christopher R. Gignoux
   - "Esteban Gonz\xE1lez Burchard"
   - Elad Ziv
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-08-19'
   link: https://doi.org/gsrsq8
   orcid: 0000-0002-3226-4727
@@ -588,7 +1420,7 @@
   - Charleston W. K. Chiang
   - Joseph L. Wiemels
   - Adam J. de Smith
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-04-23'
   link: https://doi.org/gsrsq9
   orcid: 0000-0002-3226-4727
@@ -670,7 +1502,7 @@
   - Sara R. Rashkin
   - Elad Ziv
   - John S. Witte
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-05-07'
   link: https://doi.org/ghc6xp
   orcid: 0000-0002-3226-4727
@@ -707,7 +1539,7 @@
   - Thomas J. Hoffmann
   - Stephen K. Van Den Eeden
   - John S. Witte
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-02-12'
   link: https://doi.org/gk3cj5
   orcid: 0000-0002-3226-4727
@@ -726,7 +1558,7 @@
   - Elad Ziv
   - John S. Witte
   - Mattias Johansson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-01-29'
   link: https://doi.org/gktwqg
   orcid: 0000-0002-3226-4727
@@ -758,7 +1590,7 @@
   - Laurel A. Habel
   - John S. Witte
   - Lori C. Sakoda
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-01-19'
   link: https://doi.org/gkt936
   orcid: 0000-0002-3226-4727
